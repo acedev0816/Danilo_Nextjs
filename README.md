@@ -12,11 +12,11 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ## Environment
 
-if envrionment variable NEXT_PUBLIC_DATA_SOURCE=db, the nextjs api works based on sqlite db(./sqlite.db) and the data is
-fetched from db and updated on the db.
+if envrionment variable NEXT_PUBLIC_DATA_SOURCE=db, the nextjs <br>api works based on sqlite db(./sqlite.db) and the data is
+<br>fetched from db and updated on the db.
 
 In other cases, nextjs api works on fake data.
-The initial data is generated using faker.js and the job data is only updated on the frontend, not updated on backend.
+The initial data is generated using faker.js and the job data is <br>only updated on the frontend, not updated on backend.
 
 ## Technologies
 +NEXT.js
