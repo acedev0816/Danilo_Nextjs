@@ -26,4 +26,5 @@ The initial data is generated using faker.js and the job data is only
 +Yup
 +Custom Hooks
 +TypeScript
++TailwindCss
 
